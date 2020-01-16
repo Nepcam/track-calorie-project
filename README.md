@@ -6,3 +6,4 @@ one-page app full javascript project
 3. Get and Populate Items
 4. Add Item to the Data Structure
 5. Add Item to the UI
+6. Add Total Calories
