@@ -7,3 +7,4 @@ one-page app full javascript project
 4. Add Item to the Data Structure
 5. Add Item to the UI
 6. Add Total Calories
+7. Working with the Edit State
