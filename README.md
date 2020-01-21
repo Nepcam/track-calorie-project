@@ -9,4 +9,5 @@ one-page app full javascript project
 6. Add Total Calories
 7. Working with the Edit State
 8. Updating Items and Total Calories
-9. Delete and Clearr All items
+9. Delete and Clear All items
+10. Add and Get from Local Storage
