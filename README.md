@@ -11,3 +11,4 @@ one-page app full javascript project
 8. Updating Items and Total Calories
 9. Delete and Clear All items
 10. Add and Get from Local Storage
+11. Delete & Clear from local storage
